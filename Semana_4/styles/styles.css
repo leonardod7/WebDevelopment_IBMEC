@@ -1,0 +1,41 @@
+html {
+    font-family: 'Barlow Condensed',
+            sans-serif;}
+
+#p1-id {
+    color: #ffcc00;
+    background-color: #333333;
+    font-size: 14px
+}
+
+.p2-id {
+    color: #333333;
+    background-color: #ffcc00;
+    font-size: 12px
+}
+
+.div-p {
+    color: whitesmoke;
+    background-color: #444444;
+    font-size: 12px
+}
+
+li, h1 {
+    font-size: 12px;
+    color: #333333;
+
+}
+
+.ul-1 {
+    font-size: 15px;
+    color: red;
+}
+
+.li-1 {
+    font-size: 15px;
+    color: red;
+}
+
+.box-id {
+    background-color: #ffeb99;
+}

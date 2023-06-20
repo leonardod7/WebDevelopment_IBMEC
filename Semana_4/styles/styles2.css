@@ -1,0 +1,8 @@
+
+.wrapper-1 {
+    display: flex;
+}
+
+.wrapper-2 > div {
+    flex: 1;
+}

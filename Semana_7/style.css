@@ -1,0 +1,30 @@
+div {
+    border: solid black 2px;
+    border-radius: 5px;
+    padding: 2px;
+    width: 80%;
+    margin: auto;
+    background-color: #ffcc00;
+    margin-bottom: .5em;
+}
+
+
+body > div:nth-child(3) {
+    display: none;
+}
+
+@media only screen and (min-width: 481px) {
+    div {
+        background-color: red;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+    div {
+        background-color: sandybrown;
+    }
+
+    body > div:nth-child(3) {
+        display: block;
+    }
+}

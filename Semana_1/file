@@ -1,0 +1,28 @@
+Python
+-------
+Referência: https://www.python.org
+Relação: linguagem de alto nível, interpretada e orientada a objetos. Atualmente, é a linguagem mais utilizada pela comunidade dos cientistas de dados,
+servido de base para a construção de algorítmos em análise de dados, dentre outros propósitos.
+
+Git
+------
+Referência:https://git-scm.com
+Relação:o GIT é um sistema de controle de versionamento distribuído, muito utilizado no desenvolvimento de software.
+Garante a integridade criptográfica dos códigos desenvolvidos que estarão armazenados em um repositório, utilizado para registrar o histórico da evolução do trabalho.
+
+VSCode
+-----
+Referência:https://code.visualstudio.com
+Relação: Ambiente integrado de desenvolvimento que permite o desenvolvimento de códigos Python para leitura, tratamento e análise de bancos de dados
+
+SQLite
+-----
+Referência:https://www.google.com.br/?client=safari
+Relação: Biblioteca em linguagem C que implementa uma base de dados SQL. Ela é uma base de dados relacional de código aberto e que dispensa o uso de um servidor
+na sua atuação. O SQLite coloca-se como uma opção de banco de dados relevante para algumas situações, como por exemplo: Sites, Dispositivos Incorporados (TVs, smartphones, câmeras, consoles de video game etc.)
+
+
+Navegadores
+-----
+Referência:
+Relação: Google Chrome, Firefox (Mozila Firefox), Microsoft EGE (Antigo Internet Explore), Safari, Opera e Samsung Browser.
